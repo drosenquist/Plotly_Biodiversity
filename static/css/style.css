@@ -1,0 +1,32 @@
+.jumbotron {
+	background-image: url("../images/bacteria.jpeg");
+	background-size: 100%;
+    text-align: center;   
+}
+
+.panel-primary > .panel-heading {
+    background: navy; color: #fff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}
+
+.well {
+    background: steelblue; color: white (6, 0, 0);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}
+
+
+.jumbotron > h1 {   
+   color: white;
+}
+
+.jumbotron > p {   
+    color: white;
+ }
